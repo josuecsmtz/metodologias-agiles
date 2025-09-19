@@ -4,7 +4,7 @@
 ![Fecha](https://img.shields.io/badge/Fecha-19--09--2025-green)
 
 <div style="text-align: center;">
-  <img src="https://www.onplusformacion.com/wp-content/uploads/2021/01/u5_inicio.gif" alt="Metodologías Ágiles" width="300">
+  <img src="https://www.onplusformacion.com/wp-content/uploads/2021/01/u5_inicio.gif" alt="Metodologías Ágiles" width="400">
 </div>
 
 <br>
