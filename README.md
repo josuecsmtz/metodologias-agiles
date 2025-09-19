@@ -463,4 +463,8 @@ En un **contexto profesional**, ayudan a:
 
 ## 📚 Referencias
 
-
+1. [Asana – Agile Methodology](https://asana.com/es/resources/agile-methodology)  
+2. [Atlassian – Agile](https://www.atlassian.com/es/agile)  
+3. [AWS – ¿Qué es Scrum?](https://www.aws.amazon.com/es/what-is/scrum/#:~:text=Scrum%20es%20un%20marco%20de,de%20forma%20rentable%20y%20sostenible.)  
+4. [Hotjar – Design Thinking y Ágil](https://www.hotjar.com/design-thinking/agile/)  
+5. [Asana – What is Kanban](https://asana.com/es/resources/what-is-kanban) 
